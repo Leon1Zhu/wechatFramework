@@ -9,9 +9,11 @@ module.exports = {
   themeConfig: {
     repo: 'ZhuLiangT/wechatFramework',
     sidebar: [
-      ['/', '摘要'],
-      ['/pbStatement/', '问题陈述'],
-      ['/ccContent/', '具体内容'],
+      ['/', '什么是微服务'],
+      ['/whyUse/', '为什么要使用微服务'],
+      ['/frameConstitute/', '微服务架构构成'],
+      ['/howUse/', '微服务调用方式'],
+      ['/summary/', '总结'],
 
     ],
   }
