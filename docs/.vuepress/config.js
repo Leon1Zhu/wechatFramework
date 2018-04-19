@@ -3,7 +3,7 @@
  */
 module.exports = {
   base: '/wechatFramework/',
-  title: '微信架构分析文档',
+  title: '微服务架构分析文档',
   description: '软体构作业',
   port:8888,
   themeConfig: {
