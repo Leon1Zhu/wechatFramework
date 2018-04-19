@@ -13,10 +13,6 @@
     "vue": "^2.5.2"
   },
   "devDependencies": {
-    "ansi-styles": "^3.2.1",
-    "chalk": "^2.4.0",
-    "color-convert": "^1.9.1",
-    "semver": "^5.5.0",
     "vuepress": "^0.7.0"
   },
   "engines": {
@@ -27,8 +23,5 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ],
-  "main": "index.js",
-  "repository": "https://github.com/ZhuLiangT/wechatFramework.git",
-  "license": "MIT"
+  ]
 }
