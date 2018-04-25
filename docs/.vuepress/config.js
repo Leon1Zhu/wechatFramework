@@ -11,7 +11,7 @@ module.exports = {
     sidebar: [
       ['/', '微服务简介'],
       ['/whyUse/', '为什么要使用微服务'],
-      ['/frameConstitute/', '微服务架构构成'],
+      ['/frameConstitute/', '框架构成'],
       ['/howUse/', '微服务架构优缺点'],
       ['/relativeMerits/', '微服务调用方式'],
       ['/summary/', '总结'],
